@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Visual-Inertial Odometry
 
 This repository contains our implementation of a Visual-Inertial Odometry (VIO) system using the Multi-State Constraint Kalman Filter (MSCKF) algorithm. The system processes stereo images and IMU measurements to estimate the trajectory of a moving platform.
@@ -47,3 +48,6 @@ or
 
 ## License and References
 Follow [license of msckf_vio](https://github.com/KumarRobotics/msckf_vio/blob/master/LICENSE.txt). Code is adapted from [this implementation](https://github.com/uoip/stereo_msckf).
+=======
+# Undeep_VIO
+>>>>>>> 381566666947f169ceba45c4af25d044a92ea872
